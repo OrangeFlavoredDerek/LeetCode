@@ -21,3 +21,7 @@
 * [排序（快速排序）](面试高频题/Sort.java)
 
 * [LRU设计](面试高频题/LRU.java)
+
+* [最小的K个数](面试高频题/MinimumNumOfK.java)
+
+* [寻找第K大](面试高频题/FindKth.java)
